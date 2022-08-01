@@ -10,5 +10,5 @@ Meisam Azizzadeh
 
 
 <p align="center" width="100%">
-    <img width="50%" src="https://user-images.githubusercontent.com/69088578/182084416-7223c647-e6d0-4dae-a17a-3b5846705e68.png">
+    <img width="30%" src="https://user-images.githubusercontent.com/69088578/182084416-7223c647-e6d0-4dae-a17a-3b5846705e68.png">
 </p>
